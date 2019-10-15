@@ -1,6 +1,6 @@
 # Cart to Kitchen
 
-https://zuzanav.github.io/cart-to-kitchen/index.html
+https://ppgeyser.github.io/cart-to-kitchen/
 
 ## Description
 
