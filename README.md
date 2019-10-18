@@ -6,8 +6,6 @@ https://ppgeyser.github.io/cart-to-kitchen/
 
 Cart to Kitchen is an all-in-one app that allows users to discover and search for recipes, save recipes to favorites, add ingredients from specific recipes to a grocery list, and search for nearby grocery stores with Google maps integrated functionality.
 
-This project was made for the UCSD Full Stack Web Development Bootcamp using the Spoonacular API, Google Maps/Places API, javascript/jquery/lodash.js, bootstrap, and firebase live databases.
-
 ## Screenshots
 
 ![LandingPage_ReadMe](https://user-images.githubusercontent.com/50184318/62906260-e2049680-bd22-11e9-9043-857527176971.jpg)
@@ -25,3 +23,6 @@ Zuzana Volny
 Devin Stewart
 Divya Enjamuri
 Peter Geyser
+
+
+This front end project was built using the Spoonacular API, Google Maps/Places API, javascript/jquery/lodash.js, bootstrap, and firebase live databases.
